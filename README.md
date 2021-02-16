@@ -1,5 +1,6 @@
 # CTX-Google-Cloud-Platform
 Cortex subtasks to interact with the Google Cloud Platform APIs.
+To use any of these subtasks, import the subtask into your Cortex environment, and set the Studio authorisations appropriately.
 
 ## CTX-GCP-Generate-Map
 This subtask generates HTML to include a Google Map in a Cortex LivePortal GUI.
