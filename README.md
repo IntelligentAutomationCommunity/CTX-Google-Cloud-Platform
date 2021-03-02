@@ -35,7 +35,7 @@ Parameter | Description
 **i_latitude** | The latitude coordinates on which the map will be centred, and where the location pin will be dropped
 **i_longitude** | The longitude coordinates on which the map will be centred, and where the location pin will be dropped
 **i_zoom-level** | The zoom level for the map
-**_i_class** | (Optional) The class used for the div element containing the map; defaults to col-md-12
+**i_class** | (Optional) The class used for the div element containing the map; defaults to col-md-12
 **i_style** | (Optional) The style applied to the div element containing the map; defaulst to height=200px;width=200px
 **i_CTX-GCP-Map-Init-HTML** | The most receltly returned value of the **o_CTX-GCP-Map-Init-HTML** parameter from using either the CTX-GCP-Map-Init or CTX-GCP-Map-Add subtasks
 
